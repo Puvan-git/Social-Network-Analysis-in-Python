@@ -4,4 +4,5 @@ After completing this course, you will get a broad idea of networking using grap
 
 # Contents
 - Solutions to programming assignments
+- Reference Notes to each particular week's assignments
 - Some trivial code with comments for reference sake - with respect to networkx
