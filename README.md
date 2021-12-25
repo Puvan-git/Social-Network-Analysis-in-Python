@@ -7,4 +7,5 @@ After completing this course, you will get a broad idea of networking using grap
 - Reference Notes to each particular week's assignments (where applicable)
 - Some trivial code with comments for reference sake - with respect to networkx
 
-https://coursera.org/share/3acb1e432b535b4aef7f40524d1463b2
+# Certificate
+- [Verified Certificate](https://coursera.org/share/3acb1e432b535b4aef7f40524d1463b2)
